@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hods.com" resolutions="1x" timestamp="1556199594986">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="managers.com" resolutions="1x" timestamp="1556257410368">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="130130931" ref="index"/>
@@ -28,10 +28,10 @@
     <file name="u349_states-m.png" crc="3760293756" ref="index"/>
     <file name="u197-4.png" crc="3974650784" ref="index"/>
     <file name="u200-4.png" crc="458538687" ref="index"/>
-    <file name="u206-4.png" crc="398237044" ref="index"/>
+    <file name="u206-4.png" crc="3761479188" ref="index"/>
     <file name="managers_hod_execs.jpg" crc="3850420635" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="489207918" seo="true" mt="1556199594596" redirect="true"/>
+  <file name="index.html" crc="421944323" seo="true" mt="1556257409963" redirect="true"/>
 </manifest>
